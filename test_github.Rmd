@@ -17,7 +17,7 @@ turtle <- 4
 
 ninja <- 8
 
-ninja_turtle <- turtle * ninja
+ninja_turtles <- turtle * ninja
 
 ```
 
