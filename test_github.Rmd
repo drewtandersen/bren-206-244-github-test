@@ -13,11 +13,11 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-turtle <- 4
+turtle <- 45
 
 ninja <- 8
 
-ninja_turtles <- turtle * ninja
+ninja_turtles <- turtle/ninja
 
 ```
 
